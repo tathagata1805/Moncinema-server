@@ -1,0 +1,5 @@
+/node_modules
+movie.rest
+comment.rest
+user.rest
+.env

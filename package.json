@@ -13,7 +13,7 @@
   "keywords": [
     "cinema"
   ],
-  "author": "Simon Florysiak",
+  "author": "Tathagata Chakraborty",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
